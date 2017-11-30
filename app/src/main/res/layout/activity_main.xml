@@ -9,12 +9,6 @@
     android:paddingRight="16dp"
     android:paddingTop="16dp"
     tools:context="yuuya.mito.myapplication.MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
