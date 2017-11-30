@@ -8,9 +8,10 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context="yuuya.mito.myapplication.MainActivity">
+    tools:context="MainActivity">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="40px"
         android:text="Hello Android!" />
 </LinearLayout>
